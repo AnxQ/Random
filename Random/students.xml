@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student id="31">
+		<name>安啸琪</name>
+	</student>
+	<student id="32">
+		<name>陈钊宇</name>
+	</student>
+	<student id="1">
+		<name>包雨涵</name>
+	</student>
+	<student id="2">
+		<name>陈思佳</name>
+	</student>
+	<student id="3">
+		<name>李思捷</name>
+	</student>
+	<student id="7">
+		<name>任婕</name>
+	</student>
+		<!--<Fliter id="31" mod="TO"/>
+		<Fliter id="1" mod="KI"/>-->
+</students>
